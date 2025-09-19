@@ -4,3 +4,4 @@ string name = "Армине";
 int age = 19;
 Console.WriteLine("Здраствуйте меня зовут " + name + " мне " + age + " лет!");
 Console.ReadKey();
+ 
