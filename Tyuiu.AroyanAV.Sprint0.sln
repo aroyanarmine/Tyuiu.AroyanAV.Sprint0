@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroanAV.Sprint0.Task2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroyanAV.Sprint0.Task0.V0", "Tyuiu.AroyanAV.Sprint0.Task0.V0\Tyuiu.AroyanAV.Sprint0.Task0.V0.csproj", "{A8EBCD62-DF55-4480-8868-1F5DE449C09C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{0D23DC5D-7BAA-4165-AFAF-D0DE94C26143}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.AroyanAV.Sprint0.Task1.V0", "Tyuiu.AroyanAV.Sprint0.Task1.V0\Tyuiu.AroyanAV.Sprint0.Task1.V0.csproj", "{42BFD44B-1C3F-47C4-BE76-429BB612459A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +33,17 @@ Global
 		{A8EBCD62-DF55-4480-8868-1F5DE449C09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8EBCD62-DF55-4480-8868-1F5DE449C09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8EBCD62-DF55-4480-8868-1F5DE449C09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42BFD44B-1C3F-47C4-BE76-429BB612459A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BFD44B-1C3F-47C4-BE76-429BB612459A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BFD44B-1C3F-47C4-BE76-429BB612459A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BFD44B-1C3F-47C4-BE76-429BB612459A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A8EBCD62-DF55-4480-8868-1F5DE449C09C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{42BFD44B-1C3F-47C4-BE76-429BB612459A} = {0D23DC5D-7BAA-4165-AFAF-D0DE94C26143}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F923FBEE-4294-4BA0-A43D-26DD24894F32}
